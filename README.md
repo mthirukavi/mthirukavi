@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mthirukavi
+- 👋 Hi, I’m Manigandan(@mthirukavi)
 - 👀 I’m interested in Mobile app development, Programming, Computers..
 - 🌱 I’m proud to be a learner ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 mthirukavi/mthirukavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
